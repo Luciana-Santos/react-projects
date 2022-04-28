@@ -4,4 +4,5 @@ Coleção de projetos feitos durante o curso de [React JS](https://www.youtube.c
 
 - [Birthday Reminder](https://github.com/Luciana-Santos/react-projects/tree/main/birthday-reminder)
 - [Tours](https://github.com/Luciana-Santos/react-projects/tree/main/tours)
+- [Review](https://github.com/Luciana-Santos/react-projects/tree/main/review)
 
